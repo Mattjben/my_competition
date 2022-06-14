@@ -14,8 +14,11 @@ Objected oreintated python program that generates a competition report with  res
 example if results file is suplied:
 COMPETITION DASHBOARD
 + ------------ +------ +------ +------ +------ +------ +
++ 
 |   Results    | C03   | C04   | C09   | C12   | C15   |
+
 + ------------ +------ +------ +------ +------ +------ +
+
 |     S001     | 12.5  | 6.8   | 17.6  |  --   |       |
 |     S052     | 10.6  | 7.0   | 20.1  |       |  --   |
 |     S125     | 9.4   | 6.2   | 18.2  |       |       |
